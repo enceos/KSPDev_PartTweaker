@@ -35,7 +35,7 @@ Hides (deletes, to be more specific) renderers on the specified models.
 ```
 MODULE
 {
-	name = ModuleMeshVisibility
+	name = ModuleModelTweaker
 	modelNames = planet1,planet2
 	visibleInScene = EditorOnly
 }
